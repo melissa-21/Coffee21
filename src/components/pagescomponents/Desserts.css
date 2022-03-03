@@ -1,0 +1,53 @@
+.c_desserts {
+    font-size: 72px;
+    font-family: Fauna One;
+    color: white;
+    margin-top: 300px;
+}
+
+.coffee_line3 {
+    display: inline-flex;
+}
+
+.block17 {
+    background-image: url("/src/assets/catalog/desserts/Rectangle 17.png");
+    height: 400px;
+    width: 390px;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+}
+
+.block18 {
+    background-image: url("/src/assets/catalog/desserts/Rectangle 18.png");
+    height: 400px;
+    width: 390px;
+    background-repeat: no-repeat;
+    display: flex;
+    margin-left: 180px;
+    margin-right: 180px;
+    justify-content: center;
+}
+
+.block19 {
+    background-image: url("/src/assets/catalog/desserts/Rectangle 19.png");
+    height: 400px;
+    width: 390px;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+}
+
+.block20 {
+    background-image: url("/src/assets/catalog/desserts/Rectange20.png");
+    height: 300px;
+    width: 400px;
+    background-repeat: no-repeat;
+    display: fl;
+}
+.des_coffee_text {
+    font-size: 48px;
+    font-family: Fauna One;
+    color: white;
+    margin-top: 400px;
+}
